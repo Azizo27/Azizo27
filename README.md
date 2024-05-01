@@ -12,7 +12,6 @@ I'm a last year student at ECE PARIS enthusiast with a love for Big Data & AI. W
 
 ### [ML-Recommendation ]
 Description: I worked on this project for my internship for WimbeeTech in Tunisia in 2023
-![Project Image](https://projectimageurl.com)
 [Link to Project](https://github.com/Azizo27/ML-Recommendation)
 
 ### [Docked-Mapping-Service]
@@ -30,7 +29,7 @@ Description: This project was developed by the 4 members of Team 27 for subject 
 
 ## Connect with Me 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/abdelaziz-abdelkefi)
+- [My LinkedIn](https://www.linkedin.com/in/abdelaziz-abdelkefi)
 
 ## Support Me ☕
 
