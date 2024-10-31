@@ -1,12 +1,12 @@
 # Welcome to Azizo27 Profile! 🚀
 
 
-Hey there! 👋 Welcome to my GitHub profile. I'm a passionate in Computer science based in Pariq. Here you'll find a collection of my projects, contributions, and explorations in many different worlds: Web Development, Games, Big Data, Artificial Intelligence ... 
+Hey there! 👋 Welcome to my GitHub profile. I'm a passionate in Computer science based in Paris. Here you'll find a collection of my projects, contributions, and explorations in many different worlds: Web Development, Games, Big Data, Artificial Intelligence ... 
 Feel free to explore and reach out if you have any questions or just want to connect!
 
 ## About Me 🌟
 
-I'm a last year student at ECE PARIS enthusiast with a love for Big Data & AI. When I'm not coding, you can find me playing: Chess, Football or Among Us.
+I'm an Engineer recently graduated from ECE PARIS enthusiast with a love for Big Data & AI. When I'm not coding, you can find me playing: Chess, Football or Among Us.
 
 ## Portfolio Highlights 🎨
 
@@ -23,8 +23,8 @@ Description: This project was developed by the 4 members of Team 27 for subject 
 - Python (Tensorflow, Keras)
 - Docker
 - Html/Css/Javascript
-- C/C++
-- MySQL/NoSQL
+- Power BI
+- SQL/NoSQL
 - Low-Code
 
 ## Connect with Me 🌐
